@@ -4,7 +4,7 @@ Library for Arduino, allowing you to control a unipolar stepper motor *(so far o
 
 What can do
 ---
-SaladStepper *name*(*in1*,*in2*,*in3*,*in4*);
+SaladStepper *name*(*in1*,*in2*, *in3*, *in4*);
 
 *name*.begin();
 
